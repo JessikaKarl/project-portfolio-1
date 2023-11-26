@@ -12,6 +12,10 @@ body {
 header {
     background-color: #8A9A5B;
 }
+ul {
+    list-style-type: none;
+    
+}
 .menu {
     background-color: #8A9A5B;
     padding: 100px;
