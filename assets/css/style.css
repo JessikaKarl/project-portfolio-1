@@ -1,5 +1,9 @@
 body {
     background-color: #ffffff;
+    padding: auto;
+    margin: 0px 25px 0px 25px;
+    border-style: solid;
+    border-width: 2px;
 }
 #page {
     position: relative;
@@ -8,13 +12,23 @@ body {
 header {
     background-color: #8A9A5B;
 }
+.menu {
+    background-color: #8A9A5B;
+    padding: 100px;
+}
 .column {
     float: left;
     width: 50%;
     padding: 10px;
 }
+.column img {
+    margin-top: 12px;
+}
+.row {
+    content: "";
+    display: table;
+    clear: both;
+}
 footer {
     background-color: #8A9A5B;
-    position: absolute;
-    bottom: 0;
 }
