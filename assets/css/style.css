@@ -12,9 +12,9 @@ body {
 header {
     background-color: #8A9A5B;
 }
-ul {
+.nav {
     list-style-type: none;
-    
+
 }
 .menu {
     background-color: #8A9A5B;
