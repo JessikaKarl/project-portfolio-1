@@ -13,12 +13,17 @@ body {
 }
 header {
     background-color: #8A9A5B;
+    margin: auto;
 }
 .nav {
     list-style-type: none;
+    background-color: #8A9A5B;
+    text-transform: capitalize;
+    font-size: large;
 }
 .nav-links {
     display: inline;
+    
 }
 .menu {
     background-color: #8A9A5B;
