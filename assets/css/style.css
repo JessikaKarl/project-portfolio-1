@@ -30,6 +30,9 @@ h1 {
 .nav-links {
     display: inline;
 }
+a {
+    color: #000000;
+}
 a:link {
     text-decoration: none;
 }
@@ -61,10 +64,13 @@ a:active {
 }
 footer {
     background-color: #8A9A5B;
+    padding: 20px;
+    padding-bottom: 30px;
 }
 .footer-contact {
     text-align: center;
 }
 .footer-socials {
     text-align: center;
+    font-size: large;
 }
