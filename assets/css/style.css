@@ -49,12 +49,31 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
+.container {
+    position: relative;
+    text-align: center;
+    color: #000000;
+    font-size: 3vw;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.img-slogan {
+    filter: opacity(70%);
+}
 .menu {
     background-color: #8A9A5B;
     padding: 100px;
 }
 .open {
     text-align: center;
+}
+.open-center {
+    margin-left: auto;
+    margin-right: auto;
 }
 * {
     box-sizing: border-box;
