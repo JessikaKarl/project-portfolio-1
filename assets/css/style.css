@@ -1,12 +1,8 @@
 body {
     background-color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
-/* 
-    padding: auto;
-    margin: 0px 25px 0px 25px;
-    border-style: solid;
-    border-width: 2px;
-*/
+    margin: 0;
+    text-decoration-color: #000000;
 }
 #page {
     position: relative;
@@ -33,7 +29,18 @@ h1 {
 }
 .nav-links {
     display: inline;
-    
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
 }
 .menu {
     background-color: #8A9A5B;
