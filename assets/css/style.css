@@ -87,11 +87,16 @@ form {
 }
 legend {
     background-color: #8A9A5B;
-    color: #ffffff;
+    color: #000000;
     padding: 5px 10px;
 }
 input {
     margin: 5px;
+}
+.contact {
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
 }
 iframe {
     height: 100%;
