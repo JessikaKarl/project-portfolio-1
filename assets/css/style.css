@@ -53,6 +53,9 @@ a:active {
     background-color: #8A9A5B;
     padding: 100px;
 }
+.open {
+    text-align: center;
+}
 * {
     box-sizing: border-box;
 }
