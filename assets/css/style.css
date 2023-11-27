@@ -1,5 +1,6 @@
 body {
     background-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
 /* 
     padding: auto;
     margin: 0px 25px 0px 25px;
@@ -15,11 +16,20 @@ header {
     background-color: #8A9A5B;
     margin: auto;
 }
+h1 {
+    padding: 20px;
+    margin: 10px;
+    font-size: 5vw;
+    text-transform: uppercase;
+}
 .nav {
     list-style-type: none;
     background-color: #8A9A5B;
-    text-transform: capitalize;
-    font-size: large;
+    text-transform: uppercase;
+    font-size: 2vw;
+    padding: 10px;
+    margin: 10px;
+    text-align: right;
 }
 .nav-links {
     display: inline;
