@@ -18,6 +18,10 @@ h1 {
     font-size: 5vw;
     text-transform: uppercase;
 }
+.page-header {
+    text-align: center;
+    font-size: 36px;
+}
 .nav {
     list-style-type: none;
     background-color: #8A9A5B;
@@ -49,19 +53,36 @@ a:active {
     background-color: #8A9A5B;
     padding: 100px;
 }
-.column {
-    float: left;
-    width: 50%;
-    padding: 10px;
-}
-.column img {
-    margin-top: 12px;
+* {
+    box-sizing: border-box;
 }
 .row {
-    content: "";
-    display: table;
-    clear: both;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 0 4px;
 }
+.column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+    padding: 0 4px;
+}
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+}
+@media screen and (max-width: 600px) {
+    .column {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+    
+}
+
 footer {
     background-color: #8A9A5B;
     padding: 20px;
