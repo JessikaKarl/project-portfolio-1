@@ -80,9 +80,24 @@ a:active {
         flex: 100%;
         max-width: 100%;
     }
+}
+form {
+    background-color: #8A9A5B;
     
 }
-
+legend {
+    background-color: #8A9A5B;
+    color: #ffffff;
+    padding: 5px 10px;
+}
+input {
+    margin: 5px;
+}
+iframe {
+    height: 100%;
+    width: 100%;
+    border: none;
+}
 footer {
     background-color: #8A9A5B;
     padding: 20px;
