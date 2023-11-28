@@ -6,7 +6,7 @@ For my first project, I chose to make a simple and stylish website for a cafe. I
 ### Colours 
 <img width="354" alt="colour" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/f0cb6a2f-d549-4963-ad62-34806a86b578">
 
-I wanted to choose colours that was simple and elegant. White and black are a god colour combo and to have a contrast to dose I choose green. Green was a good colour because it is muted and looked great together with white and black. 
+I wanted to choose colours that was simple and elegant. White and black are a god colour combo and to have a contrast to those I choose green. Green was a good colour because it is muted and looked great together with white and black. 
 ### Typography 
 I choose the font Times New Roman from the font family serif because it is a commonly used font. Great for accessibility and dyslexi user to read. 
 ### Wireframes 
@@ -15,19 +15,19 @@ I choose the font Times New Roman from the font family serif because it is a com
 <img width="369" alt="wireframe3" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/3c4434be-f38c-4d95-ab02-20577c123d2f">
 
 
-I tried to make the website so similer to the wireframes as possible. With what I knew about HTML and CSS it got pretty close to what I inteted. 
+I tried to make the website so similer to the wireframes as possible. With what I knew about HTML and CSS it got pretty close to what I inteted. The hard part was the images and how to layout them how I wanted. 
 ## Features
 * Navigation Bar 
-** Featured on all of the pages. It is located at the top of the pages with links for easy navigation between each of them. 
-** The design is simple and easy to see. 
+..* Featured on all of the pages. It is located at the top of the pages with links for easy navigation between each of them. 
+..* The design is simple and easy to see. 
 * Gallery 
-** Gallery page to showcase what the café has on the menu. A great place for the consumer to get all the visual informationen and get them to want to visit the café. 
+..* Gallery page to showcase what the café has on the menu. A great place for the consumer to get all the visual informationen and get them to want to visit the café. 
 * Form 
-** The form on the contact page is there for easy communucaction. When the consumer is on the website they can easy contact us with the form. The form is linked with the email address so the consumer do not need to exit the website to send an email. 
+..* The form on the contact page is there for easy communucaction. When the consumer is on the website they can easy contact us with the form. The form is linked with the email address so the consumer do not need to exit the website to send an email. 
 * Footer 
-** The footer is located at the bottom on each page. On the footer there is links Facebook, Instagram and X. Easy and simpel, one click on the link and a new tab opens without exiting the website and you would get to the social media you clicked on. It is there to easy get to the cafés social medias. 
+..* The footer is located at the bottom on each page. On the footer there is links Facebook, Instagram and X. Easy and simpel, one click on the link and a new tab opens without exiting the website and you would get to the social media you clicked on. It is there to easy get to the cafés social medias. 
 ### Future impelementations 
-For future implementations I would improve the layout and fix a working iframe. 
+For future implementations I would improve the layout and work more with media queries, and fix a working iframe. 
 ## Testing
 Testing has been ongoing through the whole project. I have used Chrome developer tools while working with the project. Every page has been tested with Chrome developer tools and Firefox inspect tool. With the tools it was possible to see how the website would look like in different devices. The website have also been testet how it looks in different browers. It was tested in Google Chrome, Safari and Firefox. 
 
