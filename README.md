@@ -7,8 +7,6 @@ For my first project, I chose to make a simple and stylish website for a cafe. I
 I wanted to choose colours that was simple and elegant. White and black are a god colour combo and to have a contrast to dose I choose green. Green was a good colour because it is muted and looked great together with white and black. 
 ### Typography 
 I choose the font Times New Roman from the font family serif because it is a commonly used font. Great for accessibility and dyslexi user to read. 
-### Imagery 
-The images I choose for this project 
 ### Wireframes 
 <img width="341" alt="wireframe" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/abf106d5-0e70-423e-8935-d372e467fd5d">
 <img width="338" alt="wireframe2" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/797737bf-2e2b-47ac-9cb9-5de140ba24b8">
@@ -29,13 +27,14 @@ I tried to make the website so similer to the wireframes as possible. With what 
 For future implementations I would improve the layout and fix a working iframe. 
 ## Testing
 
+
 ### Validator Testing 
 #### W3c validator 
 <img width="459" alt="html-validator" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/194db049-712d-45d0-a967-784e3d116cce">
 <img width="890" alt="css-validator" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/63ecd4f9-6403-4c69-bcd2-633c542088b5">
 
 ### Unfixted Bugs 
-A bug I have yet to fix is with the iframe. Added a iframe to the contact page with Google Maps but in Firefox it would not show. I ran out of time to fix it. In the future if I have the chance I would fix the bug to make the website look complete. 
+A bug I have yet to fix is with the iframe. Added a iframe to the contact page with Google Maps but it would not show. I ran out of time to fix it. In the future if I have the chance I would fix the bug to make the website look complete. 
 <img width="826" alt="iframe-firefox" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/f0b48ec7-6208-47a5-8727-aec30c30330b">
 
 ## Deployment
@@ -43,9 +42,11 @@ A bug I have yet to fix is with the iframe. Added a iframe to the contact page w
 ## Credits
 ### Content 
 * Text contet for this project was written by me. 
-* I used W3Schools for help with the project. If I did not know how to do it or was not sure how to I looked it up there. One specific part that I need help with was the gallery. How to get the images in two culumes. After looking it up there it was much easier to continue with the project. 
+* I used W3Schools for help with the project. If I did not know how to do it or was not sure how to I looked it up there. One specific part that I need help with was the gallery. How to get the images in two culumes. After looking it up there it was much easier to continue with the project.
+https://www.w3schools.com/
 ### Media
-All the images used on this project is from Pexels https://www.pexels.com/sv-se/. Pexels is a website with a big collection of free images and royaly free images.
+All the images used on this project is from Pexels. Pexels is a website with a big collection of free images and royaly free images.
+https://www.pexels.com/sv-se/
 ### Acknowledgments
 Thank you to the following people who have helped me with the project. 
 * My family and friend, for the support,  patiance and motivation. 
