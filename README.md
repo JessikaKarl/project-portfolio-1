@@ -53,7 +53,7 @@ The live link can be found here - https://jessikakarl.github.io/project-portfoli
 ## Credits
 ### Content 
 * Text contet for this project was written by me. 
-* I used W3Schools for help with the project. If I did not know how to do it or was not sure how to I looked it up there. One specific part that I need help with was the gallery. How to get the images in two culumes. After looking it up there it was much easier to continue with the project.
+* I used W3Schools for help with the project. If I was unsure about something I looked it up there. 
 https://www.w3schools.com/
 ### Media
 All the images used on this project is from Pexels. Pexels is a website with a big collection of free images and royaly free images.
