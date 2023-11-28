@@ -10,7 +10,8 @@ I choose the font Times New Roman from the font family serif because it is a com
 ### Wireframes 
 <img width="341" alt="wireframe" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/abf106d5-0e70-423e-8935-d372e467fd5d">
 <img width="338" alt="wireframe2" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/797737bf-2e2b-47ac-9cb9-5de140ba24b8">
-<img width="335" alt="wireframe3" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/33451e2f-8115-4ffe-a466-3298286ead1a">
+<img width="369" alt="wireframe3" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/3c4434be-f38c-4d95-ab02-20577c123d2f">
+
 
 I tried to make the website so similer to the wireframes as possible. With what I knew about HTML and CSS it got pretty close to what I inteted. 
 ## Features
