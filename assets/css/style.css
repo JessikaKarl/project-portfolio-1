@@ -64,9 +64,17 @@ a:active {
 .img-slogan {
     filter: opacity(70%);
 }
+.menu h3{
+    font-size: 36px;
+    text-align: center;
+}
 .menu {
     background-color: #8A9A5B;
-    padding: 100px;
+    padding: 20px;
+}
+.menu li {
+    list-style-type: none;
+    font-size: 20px;
 }
 .open {
     text-align: center;
@@ -74,6 +82,8 @@ a:active {
 .open-center {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 * {
     box-sizing: border-box;
