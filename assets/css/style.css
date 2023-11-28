@@ -63,6 +63,8 @@ a:active {
 }
 .img-slogan {
     filter: opacity(70%);
+    overflow: hidden;
+    height: 600px;
 }
 .menu h3{
     font-size: 4vw;
