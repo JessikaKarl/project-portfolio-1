@@ -1,4 +1,6 @@
 # Portfolio Project 1 - Lilly's Café
+<img width="1400" alt="websitemockup" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/ef237c50-1be8-4e5e-8998-23a3fdca9793">
+
 For my first project, I chose to make a simple and stylish website for a cafe. I chose this because I've always wanted to start a cafe so it was a good fit to make a website for it.
 ## Design
 ### Colours 
@@ -40,6 +42,13 @@ A bug I have yet to fix is with the iframe. Added a iframe to the contact page w
 <img width="826" alt="iframe-firefox" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/f0b48ec7-6208-47a5-8727-aec30c30330b">
 
 ## Deployment
+The website is deployed to GitHub pages. This is how I deployed: 
+* Go to GitHub repository and click on the setting tab.
+* To the left side there is a menu. Click on pages.
+* Go to the heading called Branch. Select branch to main and select folder to root. When done click Save.
+* Now the website is deployed. 
+
+The live link can be found here - https://jessikakarl.github.io/project-portfolio-1/ 
 
 ## Credits
 ### Content 
