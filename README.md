@@ -4,6 +4,8 @@ For my first project, I chose to make a simple and stylish website for a cafe. I
 Innehålsförteckning med länkar 
 ## Design
 ### Colours 
+<img width="354" alt="colour" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/f0cb6a2f-d549-4963-ad62-34806a86b578">
+
 I wanted to choose colours that was simple and elegant. White and black are a god colour combo and to have a contrast to dose I choose green. Green was a good colour because it is muted and looked great together with white and black. 
 ### Typography 
 I choose the font Times New Roman from the font family serif because it is a commonly used font. Great for accessibility and dyslexi user to read. 
