@@ -10,7 +10,9 @@ I choose the font Times New Roman from the font family serif because it is a com
 ### Imagery 
 The images I choose for this project 
 ### Wireframes 
-Add photos. 
+![Screenshoot of wireframes, made with Figma.](https://github.com/JessikaKarl/project-portfolio-1/assets/media/wireframe.png)
+
+
 I tried to make the website so similer to the wireframes as possible. With what I knew about HTML and CSS it got pretty close to what I inteted. 
 ## Features
 * Navigation Bar 
@@ -26,8 +28,6 @@ I tried to make the website so similer to the wireframes as possible. With what 
 ## Testing
 ### Validator Testing 
 #### W3c validator 
-#### Jigsaw validator 
-#### Lighthouse 
 ### Manual Testing 
 ### Unfixted Bugs 
 A bug I have yet to fix is with the iframe. Added a iframe to the contact page with Google Maps but in Firefox it would not show. I ran out of time to fix it. In the future if I have the chance I would fix the bug to make the website look complete. 
