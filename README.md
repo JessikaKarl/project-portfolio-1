@@ -26,10 +26,11 @@ I tried to make the website so similer to the wireframes as possible. With what 
 ### Future impelementations 
 For future implementations I would improve the layout and fix a working iframe. 
 ## Testing
-
+Testing has been ongoing through the whole project. I have used Chrome developer tools while working with the project. Every page has been tested with Chrome developer tools and Firefox inspect tool. With the tools it was possible to see how the website would look like in different devices. The website have also been testet how it looks in different browers. It was tested in Google Chrome, Safari and Firefox. 
 
 ### Validator Testing 
 #### W3c validator 
+The HTML and CSS files is validated and they are correct. 
 <img width="459" alt="html-validator" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/194db049-712d-45d0-a967-784e3d116cce">
 <img width="890" alt="css-validator" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/63ecd4f9-6403-4c69-bcd2-633c542088b5">
 
