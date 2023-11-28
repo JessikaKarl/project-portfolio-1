@@ -10,8 +10,9 @@ I choose the font Times New Roman from the font family serif because it is a com
 ### Imagery 
 The images I choose for this project 
 ### Wireframes 
-![Screenshoot of wireframes, made with Figma.] (https://github.com/JessikaKarl/project-portfolio-1/assets/media/wireframe.png)
-
+<img width="341" alt="wireframe" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/abf106d5-0e70-423e-8935-d372e467fd5d">
+<img width="338" alt="wireframe2" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/797737bf-2e2b-47ac-9cb9-5de140ba24b8">
+<img width="335" alt="wireframe3" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/33451e2f-8115-4ffe-a466-3298286ead1a">
 
 I tried to make the website so similer to the wireframes as possible. With what I knew about HTML and CSS it got pretty close to what I inteted. 
 ## Features
@@ -28,9 +29,14 @@ I tried to make the website so similer to the wireframes as possible. With what 
 ## Testing
 ### Validator Testing 
 #### W3c validator 
+<img width="459" alt="html-validator" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/194db049-712d-45d0-a967-784e3d116cce">
+<img width="890" alt="css-validator" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/63ecd4f9-6403-4c69-bcd2-633c542088b5">
+
 ### Manual Testing 
 ### Unfixted Bugs 
 A bug I have yet to fix is with the iframe. Added a iframe to the contact page with Google Maps but in Firefox it would not show. I ran out of time to fix it. In the future if I have the chance I would fix the bug to make the website look complete. 
+<img width="826" alt="iframe-firefox" src="https://github.com/JessikaKarl/project-portfolio-1/assets/147527640/f0b48ec7-6208-47a5-8727-aec30c30330b">
+
 ## Deployment
 ## Credits
 ### Content 
