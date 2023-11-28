@@ -14,10 +14,16 @@ Add photos.
 I tried to make the website so similer to the wireframes as possible. With what I knew about HTML and CSS it got pretty close to what I inteted. 
 ## Features
 * Navigation Bar 
+⋅⋅* Featured on all of the pages. It is located at the top of the pages with links for easy navigation between each of them. 
+⋅⋅* The design is 
 * Menu
+⋅⋅* 
 * Gallery 
+⋅⋅* 
 * Form 
+⋅⋅* 
 * Footer 
+⋅⋅* 
 ### Future impelementations 
 ## Testing
 ### Validator Testing 

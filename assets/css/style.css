@@ -65,16 +65,20 @@ a:active {
     filter: opacity(70%);
 }
 .menu h3{
-    font-size: 36px;
+    font-size: 4vw;
     text-align: center;
 }
 .menu {
     background-color: #8A9A5B;
-    padding: 20px;
+    padding: 10px;
+    text-align: center;
 }
 .menu li {
     list-style-type: none;
-    font-size: 20px;
+    font-size: 2vw;
+}
+.column h4 {
+    font-size: 3vw;
 }
 .open {
     text-align: center;
