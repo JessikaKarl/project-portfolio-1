@@ -10,7 +10,7 @@ I choose the font Times New Roman from the font family serif because it is a com
 ### Imagery 
 The images I choose for this project 
 ### Wireframes 
-![Screenshoot of wireframes, made with Figma.](https://github.com/JessikaKarl/project-portfolio-1/assets/media/wireframe.png)
+![Screenshoot of wireframes, made with Figma.] (https://github.com/JessikaKarl/project-portfolio-1/assets/media/wireframe.png)
 
 
 I tried to make the website so similer to the wireframes as possible. With what I knew about HTML and CSS it got pretty close to what I inteted. 
